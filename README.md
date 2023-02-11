@@ -70,8 +70,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ax1a&theme=react&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ax1a&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/iFrancisf/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/francis-fernandez-dev/) 
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Ax1a&icon=0&color=0)](https://visitcount.itsvg.in)
